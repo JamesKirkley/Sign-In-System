@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>52803270670-g6i2phl99td3pa9l52stildip4efc4al.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.52803270670-g6i2phl99td3pa9l52stildip4efc4al</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPv8VehtzgYkd2yf_Q2Qh9kgcLkjo7u6E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>52803270670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.auburn.csse.finalSignIn</string>
+	<key>PROJECT_ID</key>
+	<string>finalsignin-114da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finalsignin-114da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:52803270670:ios:b49781af765330ee21a45f</string>
+</dict>
+</plist>
